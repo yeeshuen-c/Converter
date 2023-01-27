@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\user\\OneDrive - Universiti Sains Malaysia\\RamdomCode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
